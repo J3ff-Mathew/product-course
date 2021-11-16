@@ -1,0 +1,84 @@
+{
+  "courses": [{
+      "name": "Java",
+      "description": "This course introduces computer programming using the JAVA programming language with object-oriented programming principles. Emphasis is placed on event-driven programming methods, including creating and manipulating objects, classes, and using object-oriented tools such as the class debugger."
+    },
+    {
+      "name": "Python",
+      "description": "This course provides an introduction to programming and the Python language.  Students are introduced to core programming concepts like data structures, conditionals, loops, variables, and functions.  This course includes an overview of the various tools available for writing and running Python, and gets students coding quickly.  It also provides hands-on coding exercises using commonly used data structures, writing custom functions, and reading and writing to files. This course may be more robust than some other introductory python courses, as it delves deeper into certain essential programming topics."
+    },
+    {
+      "name": "PHP",
+      "description": "This PHP training course introduces the PHP framework and syntax and covers in depth the most important techniques used to build dynamic Web sites. Students learn how to connect to any modern database, and perform hands on practice with a MySQL database to create database-driven HTML forms and reports."
+    },
+    {
+      "name": "JavaScript-Basic",
+      "description": "The JavaScript Specialist course focuses on the fundamental concepts of the JavaScript language.  These include using control structures for program flow, manipulating the JavaScript DOM, using language objects, creating expressions, and creating and using custom objects."
+    },
+    {
+      "name": "MERN",
+      "description": "This intensive training course introduces the students to the essential concepts, design principles, idioms, and techniques behind the efficient use of the MERN JavaScript Technology Stack. Upon completion of this training course, students will have solid understanding of MERNS’ value proposition; they will also gain practical experience working with all the components of the MERN stack."
+    },
+    {
+      "name": "MEAN",
+      "description": "MEAN Stack training course by the leading industry expert trainers and ensures your mastery of full MEAN Stack development. Take your career to the next level by acquiring this MEAN Stack certification program from our institute which proves that you are an expert at JavaScript technologies of the most popular MEAN Stack."
+    }
+  ],
+  "enquiries": [{
+      "name": "Jeff Mathew",
+      "phone": "9997624148",
+      "email": "jeffmathew@gmail.com",
+      "enquiry": "How much is the cost of the course",
+      "course": "Java",
+      "id": 1
+    },
+    {
+      "name": "Shivam yadav",
+      "phone": "+919175280345",
+      "email": "shivam@gmail.com",
+      "enquiry": "xbibibiubibbbbbbbbbbbbb",
+      "course": "Python",
+      "id": 2
+    },
+    {
+      "name": "badri tammanna",
+      "phone": "9022105487",
+      "email": "badri@gmail.com",
+      "enquiry": "hello badri here",
+      "course": "Python",
+      "id": 3
+    },
+    {
+      "name": "shivam Yadav",
+      "phone": "+919175280345",
+      "email": "shivam@gmail.com",
+      "enquiry": "what is the cost of this course",
+      "course": "Java",
+      "id": 4
+    },
+    {
+      "name": "Naveen Patidar",
+      "phone": "7354682483",
+      "email": "naveen@gmail.com",
+      "enquiry": "what is the duration of course",
+      "course": "PHP",
+      "id": 5
+    },
+    {
+      "name": "Niranjan Sabne",
+      "phone": "+919175280345",
+      "email": "niranjan@gmail.com",
+      "enquiry": "cecewdceccec",
+      "course": "JavaScript-Basic",
+      "id": 6
+    },
+    {
+      "name": "jeff mathew",
+      "phone": "08956735057",
+      "email": "jeffmathew35789@gmail.com",
+      "enquiry": "what to do with learning XD",
+      "course": "MEAN",
+      "id": 7
+    }
+  ]
+}
